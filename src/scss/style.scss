@@ -1,0 +1,19 @@
+@import "variable";
+@import "mixins";
+@import "button";
+
+div{
+	background-color: $more_dark_red; 		
+	width: 100px;
+	height: 100px;
+	label{
+		font-family: $sigmarOne;
+	}
+	
+}
+
+div.container1{
+	background-color: $less_dark_red;
+	padding-top: 100px;
+    margin:10px
+}

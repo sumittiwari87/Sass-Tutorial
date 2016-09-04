@@ -1,0 +1,31 @@
+@import 'https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Open+Sans|Roboto+Slab|Sigmar+One';
+/**Create Variables*/
+.btn, .btn-reverse {
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ff0000;
+  border-radius: 5px;
+  line-height: 1.5px;
+  background-color: #494196;
+  color: #F2053C;
+  border-color: #0B7A21;
+  padding: 10px;
+  height: 32px;
+  width: 120px; }
+
+.btn-reverse {
+  color: #0B7A21;
+  background-color: #F2053C; }
+
+div {
+  background-color: #ad3d3d;
+  width: 100px;
+  height: 100px; }
+  div label {
+    font-family: "Sigmar One", cursive; }
+
+div.container1 {
+  background-color: #cb6c6c;
+  padding-top: 100px;
+  margin: 10px; }
